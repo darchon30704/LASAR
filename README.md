@@ -4,53 +4,53 @@ Using Machine Learning to Predict Residency Interview Invites at NYU Langone: Le
 
 Listed are the variables required from the ERAS dataset.
 
-Here are the variables without quotations
+**Here are the variables without quotations**
 
-AAMC ID,
-Medical Education or Training Interrupted,
-ACLS,
-BLS,
-Board Certification,
-Malpractice Cases Pending,
-Medical Licensure Problem,
-PALS,
-Misdemeanor Conviction,
-Alpha Omega Alpha (Yes/No),
-Citizenship,
-Contact State,
-Date of Birth,
-Gender,
-Gold Humanism Honor Society (Yes/No),
-Military Service Obligation,
-Participating as a Couple in NRMP,
-Permanent Country,
-Permanent State,
-Self Identify,
-Sigma Sigma Phi (Yes/No),
-US or Canadian Applicant,
-Visa Sponsorship Needed,
-ECFMG Certification Received,
-CSA Exam Status,
-ECFMG Certified,
-Medical School Transcript Received,
-MSPE Received,
-Personal Statement Received,
-Photo Received,
-Medical School Country,
-Medical School State/Province,
-Medical School of Graduation,
-USMLE Step 1 Score,
-USMLE Step 2 CK Score,
-USMLE Step 2 CS Score,
-USMLE Step 3 Score,
-Count of Non Peer Reviewed Online Publication,
-Count of Oral Presentation,
-Count of Other Articles,
-Count of Peer Reviewed Book Chapter,
-Count of Peer Reviewed Journal Articles/Abstracts,
-Count of Peer Reviewed Journal Articles/Abstracts(Other than Published),
-Count of Peer Reviewed Online Publication,
-Count of Poster Presentation,
+AAMC ID<br>
+Medical Education or Training Interrupted<br>
+ACLS<br>
+BLS<br>
+Board Certification<br>
+Malpractice Cases Pending<br>
+Medical Licensure Problem<br>
+PALS<br>
+Misdemeanor Conviction<br>
+Alpha Omega Alpha (Yes/No)<br>
+Citizenship<br<br>
+Contact State<br>
+Date of Birth<br>
+Gender<br>
+Gold Humanism Honor Society (Yes/No)<br>
+Military Service Obligation<br>
+Participating as a Couple in NRMP<br>
+Permanent Country<br>
+Permanent State<br>
+Self Identify<br>
+Sigma Sigma Phi (Yes/No)<br>
+US or Canadian Applicant<br>
+Visa Sponsorship Needed<br>
+ECFMG Certification Received<br>
+CSA Exam Status<br>
+ECFMG Certified<br>
+Medical School Transcript Received<br>
+MSPE Received<br>
+Personal Statement Received<br>
+Photo Received<br>
+Medical School Country<br>
+Medical School State/Province<br>
+Medical School of Graduation<br>
+USMLE Step 1 Score<br>
+USMLE Step 2 CK Score<br>
+USMLE Step 2 CS Score<br>
+USMLE Step 3 Score<br>
+Count of Non Peer Reviewed Online Publication<br>
+Count of Oral Presentation<br>
+Count of Other Articles<br>
+Count of Peer Reviewed Book Chapter<br>
+Count of Peer Reviewed Journal Articles/Abstracts<br>
+Count of Peer Reviewed Journal Articles/Abstracts(Other than Published)<br>
+Count of Peer Reviewed Online Publication<br>
+Count of Poster Presentation<br>
 Count of Scientific Monograph
 
 NOTE 1: Ground truth labels are under a different file, provided by the NYU Langone residency admissions department.
@@ -58,7 +58,7 @@ NOTE 2: Research Ranking, or usnwr_eras is from 2017_school_ranks.csv, and under
 NOTE 3: when using ResidencyTools.py and analysis.py, usnwr_eras contains a list of schools in order of their rankings from 2017. This is under usnwr.csv
 
 
-Below are the variables converted for Python/R readability, and a few descriptions for those variables
+**Below are the variables converted for Python/R readability, and a few descriptions for those variables**
 
 'AAMC ID': 'ID',
 'Medical Education or Training Interrupted': 'education_interruption',
@@ -125,7 +125,7 @@ Below are the variables converted for Python/R readability, and a few descriptio
 
 
 
-/b/Directions/b/
+**Directions**
 
 Just by running ra_brad.py (with the necessary data files), the results, metrics,
 accuracy reports will be displayed on an output. 
