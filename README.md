@@ -1,6 +1,8 @@
 # LASAR
 Using Machine Learning to Predict Residency Interview Invites at NYU Langone: Learning Algorithm for the Swift Appraisal of Residents (LASAR)
 
+
+
 Listed are the variables required from the ERAS dataset.
 
 Here are the variables without quotations
