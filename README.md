@@ -4,7 +4,7 @@
 
 ![ERASLOGO](http://wichita.kumc.edu/Images/wichita/psychiatry/logo-eras-data.jpg)
 ![NYULOGO](https://www.myface.org/wp-content/uploads/2016/09/NYU-Langone-Medical-Center-Logo.png)
-![NRMPLOGO](https://img.medscape.com/thumbnail_library/ht_181127_national_resident_matching_program_NRMP_800x450.png)
+![NRMPLOGO](https://pbs.twimg.com/profile_images/1126140387482009600/m3ugRVg9_400x400.png)
 ![classifiers](https://devopedia.org/images/article/74/9857.1523796001.png)
 
 With increasing number of applications per applicant in medical residency programs, AI (Artificial Intelligence) is being investigated as a decision support tool for residency applications. This pilot experiment utilizes machine learning techniques to predict interview invites at NYU Langone’s Internal Medicine residency program. By using Electronic Resident Application Services (ERAS) data and medical school rankings, we utilized machine learning algorithms (such as Logistic Regression, Random Forest, and ultimately, Gradient Boosting) to predict probabilities of an applicant being invited for interviews. As a result, we achieved an AUCROC performance of 0.94, 0.95 and 0.95, respectively, for the three algorithms described above). We also found that Step 1 scores, age, and medical school ranking of the applicant were most influential in our model. This experimental analysis demonstrates that using machine learning to predict residency interview invites at NYU Langone is feasible with ERAS data. 
