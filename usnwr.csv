@@ -1,0 +1,65 @@
+INSTITUTION_ID,LONG_DESCRIPTION,SHORT_DESCRIPTION,STATE_CODE,usnwr_eras,YEAR
+126,Harvard Medical School,Harvard,MA,1,2017
+169,Stanford University School of Medicine,Stanford,CA,2,2017
+133,Johns Hopkins University School of Medicine,Johns Hopkins,MD,3,2017
+152,New York University,New York Univ,NY,3,2018
+108,University of California San Francisco,Un. Calif.-San Fran.,CA,4,2017
+159,University of Pennsylvania School of Medicine,U Pennsylvania,PA,5,2017
+114,Columbia University College of P & S,Columbia,NY,6,2017
+119,Duke University School of Medicine,Duke,NC,7,2017
+184,Washington University School of Medicine,Wash U St Louis,MO,7,2017
+145,University of Michigan Medical School,U Michigan,MI,9,2017
+191,Yale University School of Medicine,Yale,CT,9,2017
+109,David Geffen School of Medicine at UCLA,Calif-Los Angeles,CA,11,2017
+183,University of Washington School of Medicine,U Wash-Seattle,WA,12,2017
+178,Vanderbilt University School of Medicine,Vanderbilt,TN,14,2017
+111,University of Chicago - Pritzker,U Chicago-Pritzker,IL,15,2017
+162,University of Pittsburgh School of Medicine,Pittsburgh,PA,15,2017
+155,Northwestern University Feinberg School of Medicin,Northwestern,IL,17,2017
+115,Weill Medical College of Cornell University,Cornell University,NY,18,2017
+194,University of California San Diego,Calif-San Diego,CA,18,2017
+817,Mayo Medical School,Mayo Clinic,MN,20,2017
+104,Baylor College of Medicine,Baylor,TX,21,2017
+801,Mount Sinai School of Medicine,Mount Sinai,NY,22,2017
+121,Emory University School of Medicine,Emory,GA,23,2017
+186,Case Western Reserve University School of Medicine,Case Western Res,OH,25,2017
+10168,UT Southwestern,Texas-Southwestern,TX,25,2017
+181,University of Virginia School of Medicine,Virginia,VA,27,2017
+188,University of Wisconsin,U Wisconsin,WI,28,2017
+158,Oregon Health and Science University,Oregon,OR,29,2017
+105,Boston University School of Medicine,Boston University,MA,30,2017
+192,Warren Alpert Medical School of Brown University,Brown,RI,31,2017
+824,Northeastern Ohio Universities College of Medicine,Northeastern Ohio,OH,31,2017
+163,University of Rochester School of Medicine and Den,Rochester,NY,33,2017
+167,Keck Sch. of Med.University of Southern California,Southern Calif,CA,33,2017
+118,Geisel School of Medicine at Dartmouth,Dartmouth,NH,35,2017
+101,University of Alabama School of Medicine,Alabama,AL,35,2017
+113,University of Colorado School of Medicine,Colorado,CO,35,2017
+131,"University of Iowa, Carver College of Medicine",Iowa,IA,35,2017
+120,Albert Einstein College of Medicine,Albert Einstein,NY,35,2017
+112,University of Cincinnati College of Medicine,Cincinnati,OH,40,2017
+117,University of Florida,Florida,FL,40,2017
+142,University of Maryland School of Medicine,Maryland,MD,40,2017
+177,University of Utah School of Medicine,Utah,UT,40,2017
+146,University of Minnesota Medical School-Minneapolis/Duluth,Minn-Minneapolis,MN,44,2017
+122,Georgetown University School of Medicine,Georgetown,DC,45,2017
+129,Indiana University School of Medicine,Indiana,IN,45,2017
+802,"University of California, Davis School of Medicine",Calif-Davis,CA,45,2017
+130,"University of California, Irvine- College/Medicine",Calif-Irvine,CA,48,2017
+140,The University of Miami School of Medicine,Miami,FL,48,2017
+175,Tufts University School of Medicine,Tufts,MA,50,2017
+195,University of Massachusetts Medical School,Massachusetts,MA,50,2017
+128,University of Illinois at Chicago-College of Medic,U Illinois,IL,52,2017
+132,Sidney Kimmel Medical College at Thomas Jefferson University,Jefferson,PA,53,2017
+106,Wake Forest University School of Medicine,Wake Forest,NC,53,2017
+172,Temple University School of Medicine,Temple,PA,55,2017
+190,University of Connecticut School of Medicine,Connecticut,CT,56,2017
+806,USF Health Morsani College of Medicine,USF Health Morsani College of Medicine,FL,56,2017
+179,The University of Vermont College of Medicine,Vermont,VT,56,2017
+123,George Washington University Sch of Med & Hlth Sci,George Washington,DC,59,2017
+812,Rush Medical College,Rush,IL,59,2017
+805,Stony Brook University - School of Medicine,Suny-Stony Brook,NY,59,2017
+10809,University of Texas Medical School at Houston,Texas-Houston,TX,59,2017
+135,University of Kentucky College of Medicine,Kentucky,KY,59,2017
+153,University of North Carolina School of Medicine,North Carolina,NC,59,2017
+11111,Other,Other,Other,100,2017
