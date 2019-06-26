@@ -1,6 +1,8 @@
 # LASAR / Resident Retriever
-Using Machine Learning to Predict Residency Interview Invites at NYU Langone: Learning Algorithm for the Swift Appraisal of Residents (LASAR)
+**Using Machine Learning to Predict Residency Interview Invites at NYU Langone**
+*Learning Algorithm for the Swift Appraisal of Residents (LASAR)*
 
+With increasing number of applications per applicant in medical residency programs, AI (Artificial Intelligence) is being investigated as a decision support tool for residency applications. This pilot experiment utilizes machine learning techniques to predict interview invites at NYU Langone’s Internal Medicine residency program. By using Electronic Resident Application Services (ERAS) data and medical school rankings, we utilized machine learning algorithms (such as Logistic Regression, Random Forest, and ultimately, Gradient Boosting) to predict probabilities of an applicant being invited for interviews. As a result, we achieved an AUCROC performance of 0.94, 0.95 and 0.95, respectively, for the three algorithms described above). We also found that Step 1 scores, age, and medical school ranking of the applicant were most influential in our model. This experimental analysis demonstrates that using machine learning to predict residency interview invites at NYU Langone is feasible with ERAS data. 
 
 Listed are the variables required from the ERAS dataset.
 
