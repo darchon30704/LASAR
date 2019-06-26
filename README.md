@@ -80,7 +80,7 @@ NOTE 3: when using ResidencyTools.py and analysis.py, usnwr_eras contains a list
 **'Contact Zip'**: 'contact_zip'<br>
 **'Date of Birth'**: 'dob'<br>
 **'Gender'**: 'gender'<br>
-'Gold Humanism Honor Society'*: 'gold_school' The Gold Humanism Honor Society (GHHS) is a national honor society that honors senior medical students, residents, role-model physician teachers and other exemplars recognized for demonstrated excellence in clinical care, leadership, compassion and dedication to service. It was created by the Arnold P. Gold Foundation for Humanism in Medicine.
+**'Gold Humanism Honor Society'**: 'gold_school' The Gold Humanism Honor Society (GHHS) is a national honor society that honors senior medical students, residents, role-model physician teachers and other exemplars recognized for demonstrated excellence in clinical care, leadership, compassion and dedication to service. It was created by the Arnold P. Gold Foundation for Humanism in Medicine.
 **'Gold Humanism Honor Society (Yes/No)'**: 'gold_recipient', GHHS award recipient
 **'Military Service Obligation'**: 'military_obligation'<br>
 **'Participating as a Couple in NRMP'**: 'couples_matching'<br>
