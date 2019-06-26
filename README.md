@@ -2,7 +2,8 @@
 **Using Machine Learning to Predict Residency Interview Invites at NYU Langone** <br>
 *Learning Algorithm for the Swift Appraisal of Residents (LASAR)*
 
-![ERASLOGO](http://wichita.kumc.edu/Images/wichita/psychiatry/logo-eras-data.jpg)![NYULOGO](https://med.nyu.edu/themes/custom/nyumed_v2/assets/images/nyuhealth.jpg)
+![ERASLOGO](http://wichita.kumc.edu/Images/wichita/psychiatry/logo-eras-data.jpg)
+![NYULOGO](https://www.myface.org/wp-content/uploads/2016/09/NYU-Langone-Medical-Center-Logo.png)
 ![NRMPLOGO](https://img.medscape.com/thumbnail_library/ht_181127_national_resident_matching_program_NRMP_800x450.png)
 ![classifiers](https://devopedia.org/images/article/74/9857.1523796001.png)
 
