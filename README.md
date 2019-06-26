@@ -62,68 +62,68 @@ NOTE 3: when using ResidencyTools.py and analysis.py, usnwr_eras contains a list
 
 **Below are the variables converted for Python/R readability, and a few descriptions for those variables**
 
-**'AAMC ID'**: 'ID'<br>
-**'Medical Education or Training Interrupted'**: 'education_interruption',<br>
-**'ACLS'**: 'ACLS', : Advanced cardiac life support, or advanced cardiovascular life support, often referred to by its abbreviation as "ACLS", refers to a set of clinical algorithms for the urgent treatment of cardiac arrest, stroke, myocardial infarction, and other life-threatening cardiovascular emergencies.[1] Outside North America, Advanced Life Support (ALS) is used.<br>
-**'BLS'**: 'BLS', : Basic life support (BLS) is a level of medical care which is used for victims of life-threatening illnesses or injuries until they can be given full medical care at a hospital. It can be provided by trained medical personnel, including emergency medical technicians, paramedics, and by qualified bystanders.<br>
-**'Board Certification'**: 'board_certified',<br>
-**'Malpractice Cases Pending'**: 'malpractice_pending',<br>
-**'Medical Licensure Problem'**: 'licensure_problem'<br>
-**'PALS'**: 'PALS', : Pediatric Advanced Life Support (PALS) is a 2-day (with an additional self study day) American Heart Association training program co-branded with the American Academy of Pediatrics<br>
-**'Misdemeanor Conviction'**: 'misdemeanor'<br>
-**'Alpha Omega Alpha'**: 'aoa_school', Alpha Omega Alpha Honor Medical Society (ΑΩΑ) is an honor society in the field of medicine
-**'Alpha Omega Alpha (Yes/No)'**: 'aoa_recipient', : Any ΑΩΑ recipeint who has provided administrative support for a Chapter, for at least three years.<br>
-**'Citizenship'**: 'citizenship', : US citizenship<br>
-**'Contact City'**: 'contact_city'<br>
-**'Contact Country'**: 'contact_country'<br>
-**'Contact State'**: 'contact_state'<br>
-**'Contact Zip'**: 'contact_zip'<br>
-**'Date of Birth'**: 'dob'<br>
-**'Gender'**: 'gender'<br>
-**'Gold Humanism Honor Society'**: 'gold_school' The Gold Humanism Honor Society (GHHS) is a national honor society that honors senior medical students, residents, role-model physician teachers and other exemplars recognized for demonstrated excellence in clinical care, leadership, compassion and dedication to service. It was created by the Arnold P. Gold Foundation for Humanism in Medicine.
-**'Gold Humanism Honor Society (Yes/No)'**: 'gold_recipient', GHHS award recipient
-**'Military Service Obligation'**: 'military_obligation'<br>
-**'Participating as a Couple in NRMP'**: 'couples_matching'<br>
-**'Permanent City'**: 'permanent_city'<br>
-**'Permanent Country'**: 'permanent_country'<br>
-**'Permanent State'**: 'permanent_state'<br>
-**'Permanent Zip'**: 'permanent_zip'<br>
-**'Self Identify'**: 'race', Sigma Sigma Phi<br>
-**'Sigma Sigma Phi'**: 'sigma_school' : Sigma Sigma Phi (ΣΣΦ or SSP), is the national osteopathic medicine honors fraternity for medical students training to be Doctors of Osteopathic Medicine (D.O.)<br>
-**'Sigma Sigma Phi (Yes/No)'**: 'sigma_recipient', SSP award recipient<br>
-**'US or Canadian Applicant'**: 'us_or_canadian',<br>
-**'Visa Sponsorship Needed'**: 'visa_need',<br>
-**'Application Reviewed'**: 'app_reviewed', : Filled out by reviewer.<br>
-**'Withdrawn by Applicant'**: 'app_withdrawn_stud' : Whether the application was withdrawn by the applicant. Filled out by reviewer.<br>
-**'Withdrawn by Program'**: 'app_withdrawn_prog' :  Whether the application was withdrawn by NYU Langones program when applying. Filled out by reviewer.<br>
-**'On Hold'**: 'on_hold' : Filled out by reviewer.<br>
-'Average Document Score'**: 'avg_doc_score' : Filled out by reviewer.<br>
-**'ECFMG Certification Received'**: 'ecfmg_cert_received', : Filled out by reviewer. Educational Commission for Foreign Medical Graduates (ECFMG) assesses the readiness of international medical graduates to enter residency or fellowship programs in the United States that are accredited by the Accreditation Council for Graduate Medical Education (ACGME). This is mainly for international applicants.
-**'CSA Exam Status'**: 'csa_received', : Filled out by reviewer. The term CSA applies to all persons who successfully pass the National Commission for the Certification of Surgical Assistants’ Certification Examination and meets the ongoing requirements for maintaining the credential.<br>
-**'ECFMG Certified'**: 'ecfmg_cert' :Filled out by reviewer.<br>
-**'Medical School Transcript Received'**: 'transcript_received', :Filled out by reviewer.<br>
-**'MSPE Received'**: 'mspe_received' :Filled out by reviewer.<br>
-**'Personal Statement Received'**: 'ps_received', :Filled out by reviewer.<br>
-**'Photo Received'**: 'photo_received' : Filled out by reviewer.<br>
-**'Medical School Country'**: 'ms_country' : Country of Medical School that applicant has graduated. or anticipated to graduate from.<br>
-**'Medical School State/Province'**: 'ms_state' : State of Medical School that applicant has graduated. or anticipated to graduate from.<br>
-**'Medical School of Graduation'**: 'ms_name'<br>
-**'COMLEX-USA Level 1 Score'**: 'comlex_score_1'<br>
-**'COMLEX-USA Level 2 CE Score'**: 'comlex_score_2'<br>
-**'COMLEX-USA Level 2 PE Score**': 'complex_pass_pe'<br>
-**'USMLE Step 1 Score**': 'step_1_score'<br>
-**'USMLE Step 2 CK Score'**: 'step_2ck_score'<br>
-**'USMLE Step 2 CS Score'**: 'step_2cs_score'<br>
-**'USMLE Step 3 Score'**: 'step_3_score'<br>
-**'Count of Non Peer Reviewed Online Publication'**: 'count_nonpeer_online'<br>
-**'Count of Oral Presentation'**: 'count_oral_present'<br>
-**'Count of Other Articles'**: 'count_other_articles'<br>
-**'Count of Peer Reviewed Book Chapter'**: 'count_book_chapters'<br>
-**'Count of Peer Reviewed Journal Articles/Abstracts'**: 'count_peer_journal'<br>
-**'Count of Peer Reviewed Journal Articles/Abstracts(Other than Published)'**: 'count_nonpeer_journal'<br>
-**'Count of Peer Reviewed Online Publication'**: 'count_peer_online',<br>
-**'Count of Poster Presentation'**: 'count_poster_present'<br>
-**'Count of Scientific Monograph'**: 'count_science_monograph'<br>
+**AAMC ID**: 'ID'<br>
+**Medical Education or Training Interrupted**: 'education_interruption',<br>
+**ACLS**: 'ACLS', : Advanced cardiac life support, or advanced cardiovascular life support, often referred to by its abbreviation as "ACLS", refers to a set of clinical algorithms for the urgent treatment of cardiac arrest, stroke, myocardial infarction, and other life-threatening cardiovascular emergencies.[1] Outside North America, Advanced Life Support (ALS) is used.<br>
+**BLS**: 'BLS', : Basic life support (BLS) is a level of medical care which is used for victims of life-threatening illnesses or injuries until they can be given full medical care at a hospital. It can be provided by trained medical personnel, including emergency medical technicians, paramedics, and by qualified bystanders.<br>
+**Board Certification**: 'board_certified',<br>
+**Malpractice Cases Pending**: 'malpractice_pending',<br>
+**Medical Licensure Problem**: 'licensure_problem'<br>
+**PALS**: 'PALS', : Pediatric Advanced Life Support (PALS) is a 2-day (with an additional self study day) American Heart Association training program co-branded with the American Academy of Pediatrics<br>
+**Misdemeanor Conviction**: 'misdemeanor'<br>
+**Alpha Omega Alpha**: 'aoa_school', Alpha Omega Alpha Honor Medical Society (ΑΩΑ) is an honor society in the field of medicine
+**Alpha Omega Alpha (Yes/No)**: 'aoa_recipient', : Any ΑΩΑ recipeint who has provided administrative support for a Chapter, for at least three years.<br>
+**Citizenship**: 'citizenship', : US citizenship<br>
+**Contact City**: 'contact_city'<br>
+**Contact Country**: 'contact_country'<br>
+**Contact State**: 'contact_state'<br>
+**Contact Zip**: 'contact_zip'<br>
+**Date of Birth**: 'dob'<br>
+**Gender**: 'gender'<br>
+**Gold Humanism Honor Society**: 'gold_school' The Gold Humanism Honor Society (GHHS) is a national honor society that honors senior medical students, residents, role-model physician teachers and other exemplars recognized for demonstrated excellence in clinical care, leadership, compassion and dedication to service. It was created by the Arnold P. Gold Foundation for Humanism in Medicine.
+**Gold Humanism Honor Society (Yes/No)**: 'gold_recipient', GHHS award recipient
+**Military Service Obligation**: 'military_obligation'<br>
+**Participating as a Couple in NRMP**: 'couples_matching'<br>
+**Permanent City**: 'permanent_city'<br>
+**Permanent Country**: 'permanent_country'<br>
+**Permanent State**: 'permanent_state'<br>
+**Permanent Zip**: 'permanent_zip'<br>
+**Self Identify**: 'race', Sigma Sigma Phi<br>
+**Sigma Sigma Phi**: 'sigma_school' : Sigma Sigma Phi (ΣΣΦ or SSP), is the national osteopathic medicine honors fraternity for medical students training to be Doctors of Osteopathic Medicine (D.O.)<br>
+**Sigma Sigma Phi (Yes/No)**: 'sigma_recipient', SSP award recipient<br>
+**US or Canadian Applicant**: 'us_or_canadian',<br>
+**Visa Sponsorship Needed**: 'visa_need',<br>
+**Application Reviewed**: 'app_reviewed', : Filled out by reviewer.<br>
+**Withdrawn by Applicant**: 'app_withdrawn_stud' : Whether the application was withdrawn by the applicant. Filled out by reviewer.<br>
+**Withdrawn by Program**: 'app_withdrawn_prog' :  Whether the application was withdrawn by NYU Langones program when applying. Filled out by reviewer.<br>
+**On Hold**: 'on_hold' : Filled out by reviewer.<br>
+Average Document Score**: 'avg_doc_score' : Filled out by reviewer.<br>
+**ECFMG Certification Received**: 'ecfmg_cert_received', : Filled out by reviewer. Educational Commission for Foreign Medical Graduates (ECFMG) assesses the readiness of international medical graduates to enter residency or fellowship programs in the United States that are accredited by the Accreditation Council for Graduate Medical Education (ACGME). This is mainly for international applicants.
+**CSA Exam Status**: 'csa_received', : Filled out by reviewer. The term CSA applies to all persons who successfully pass the National Commission for the Certification of Surgical Assistants’ Certification Examination and meets the ongoing requirements for maintaining the credential.<br>
+**ECFMG Certified**: 'ecfmg_cert' :Filled out by reviewer.<br>
+**Medical School Transcript Received**: 'transcript_received', :Filled out by reviewer.<br>
+**MSPE Received**: 'mspe_received' :Filled out by reviewer.<br>
+**Personal Statement Received**: 'ps_received', :Filled out by reviewer.<br>
+**Photo Received**: 'photo_received' : Filled out by reviewer.<br>
+**Medical School Country**: 'ms_country' : Country of Medical School that applicant has graduated. or anticipated to graduate from.<br>
+**Medical School State/Province**: 'ms_state' : State of Medical School that applicant has graduated. or anticipated to graduate from.<br>
+**Medical School of Graduation**: 'ms_name'<br>
+**COMLEX-USA Level 1 Score**: 'comlex_score_1'<br>
+**COMLEX-USA Level 2 CE Score**: 'comlex_score_2'<br>
+**COMLEX-USA Level 2 PE Score**: 'complex_pass_pe'<br>
+**USMLE Step 1 Score**: 'step_1_score'<br>
+**USMLE Step 2 CK Score**: 'step_2ck_score'<br>
+**USMLE Step 2 CS Score**: 'step_2cs_score'<br>
+**USMLE Step 3 Score**: 'step_3_score'<br>
+**Count of Non Peer Reviewed Online Publication**: 'count_nonpeer_online'<br>
+**Count of Oral Presentation**: 'count_oral_present'<br>
+**Count of Other Articles**: 'count_other_articles'<br>
+**Count of Peer Reviewed Book Chapter**: 'count_book_chapters'<br>
+**Count of Peer Reviewed Journal Articles/Abstracts**: 'count_peer_journal'<br>
+**Count of Peer Reviewed Journal Articles/Abstracts(Other than Published)**: 'count_nonpeer_journal'<br>
+**Count of Peer Reviewed Online Publication**: 'count_peer_online',<br>
+**Count of Poster Presentation**: 'count_poster_present'<br>
+**Count of Scientific Monograph**: 'count_science_monograph'<br>
 
 
 
